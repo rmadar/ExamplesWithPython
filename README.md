@@ -1,2 +1,3 @@
 # Python Examples
-Example of python macros dedicated to various purposes
+Example of python macros dedicated to various purposes:
+ - FFT of a temporal signal
