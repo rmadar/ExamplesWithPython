@@ -24,7 +24,14 @@ The full study with detailed explanations can be seen in [this notebook](http://
 
 The full study can be seen in [this notebook](http://nbviewer.jupyter.org/github/rmadar/ExamplesWithPython/blob/master/NotebookExamples/PluviometryAnalysis.ipynb)
 
-![AveragedRain.png](https://github.com/rmadar/ExamplesWithPython/blob/master/NotebookExamples/AveragedRain.png)
-![MonthToMonthCorrelation.png](https://github.com/rmadar/ExamplesWithPython/blob/master/NotebookExamples/MonthToMonthCorrelation.png)
+Cumulative rain amount is shown below:
 ![RainAmount.png](https://github.com/rmadar/ExamplesWithPython/blob/master/NotebookExamples/RainAmount.png)
+
+One can also look at the average per year or per month:
+![AveragedRain.png](https://github.com/rmadar/ExamplesWithPython/blob/master/NotebookExamples/AveragedRain.png)
+
+Checking correlation between month might also be interesting:
+![MonthToMonthCorrelation.png](https://github.com/rmadar/ExamplesWithPython/blob/master/NotebookExamples/MonthToMonthCorrelation.png)
+
+A 2D histogram showing a calendar of the rain amount:
 ![NotebookExamples/RainCalandar.png](https://github.com/rmadar/ExamplesWithPython/blob/master/NotebookExamples/RainCalandar.png)
