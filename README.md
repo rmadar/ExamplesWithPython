@@ -3,7 +3,7 @@
 Example of python macros dedicated to various purposes (FFT of a temporal signal, quick exploration of pandas dataframe, etc ...). Also, concrete examples based on jupyter notebook with
 typical analysis or data visualization is stored on this repository.
 
-For an interactive version of the notebooks [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rmadar/ExamplesWithPython/master)
+For an interactive version of the notebooks [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rmadar/ExamplesWithPython/master?filepath=NotebookExamples)
 
 ## Fast Fourier Transform (scipy)
 
